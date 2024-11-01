@@ -43,6 +43,10 @@ src/
 └── view/
     └── UserView.java        # Exibe informações de usuários
 ```
+## Diagrama de Classes (UML)
+![diagrama-classe](./img/diagrama-classe.png)
+
+
 ## Como Executar
 
 **Clone** este repositório.
